@@ -1,5 +1,5 @@
 module.exports = {
-  siteName: 'Gridsome + Shopify 😍',
+  siteName: 'Kalamos Care',
   templates: {
     ShopifyProduct: [
       {
