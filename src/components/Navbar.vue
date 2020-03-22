@@ -7,7 +7,7 @@
       <g-link
         to="/"
         class="navbar-item"
-        href="https://gridsome.org/">
+        href="https://beta.kalamos.care/">
         <img
           src="../favicon.png"
           alt="Gridsome Logo">
